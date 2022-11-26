@@ -33,13 +33,13 @@ Parabolic and cubic interpolation are used by industries that manufacture parts 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
 
 ### Program:
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/2.png?raw=true)
+![output](https://github.com/Saibandhavi75/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/3.png?raw=true)
+![output](https://github.com/Saibandhavi75/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/4.png?raw=true)
+![output](https://github.com/Saibandhavi75/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/5.png?raw=true)
 
 Linear Interpolation:
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/6.png?raw=true)
 
 
 
@@ -50,11 +50,11 @@ Linear Interpolation:
 
 
 Circular Interpolation
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/7.png?raw=true)
 
 ### output:
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/8.png?raw=true)
+![output](https://github.com/Saibandhavi75/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/9.png?raw=true)
 
 
 
